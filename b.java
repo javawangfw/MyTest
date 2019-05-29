@@ -1,5 +1,6 @@
 pubilc clss demo {
 	public static void main (String agrs[]){
-		System.out.println("hello world")
+		private String name;
+		System.out.println("hello world");
 	}
 }
