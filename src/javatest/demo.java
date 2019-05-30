@@ -1,6 +1,10 @@
 package javatest;
 
+/**
+ * 测试一下提交代码问题
+ */
 public class demo {
+
     private String  name;
 
     public String getName() {
@@ -29,6 +33,13 @@ public class demo {
 
     private String sex;
     private Integer age;
+    private String pehone;
 
+    public String getPehone() {
+        return pehone;
+    }
 
+    public void setPehone(String pehone) {
+        this.pehone = pehone;
+    }
 }
